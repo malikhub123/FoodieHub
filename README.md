@@ -1,6 +1,6 @@
 # 🍽️ FoodieHub – Full-Stack Food Ordering & Order Management Application
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](http://foodie-hub.s3-website.ap-south-1.amazonaws.com/)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://github.com/malikhub123/FoodieHub/blob/main/FoodieHub%20Demo_video.mp4)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -22,7 +22,11 @@ Built with industry-grade practices focusing on **security**, **scalability**, a
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Project Video
+
+🔗 **Experience it live:** [http://foodie-hub.s3-website.ap-south-1.amazonaws.com/](https://github.com/malikhub123/FoodieHub/blob/main/FoodieHub%20Demo_video.mp4)
+
+## 🚀 Live Project
 
 🔗 **Experience it live:** [http://foodie-hub.s3-website.ap-south-1.amazonaws.com/](http://foodie-hub.s3-website.ap-south-1.amazonaws.com/)
 
@@ -266,19 +270,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Full-Stack Developer (Spring Boot | React | AWS)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-malik-43880a222/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik2002.aditi@gmail.com)
 
----
-
-## 🙏 Acknowledgments
-
-- Spring Boot documentation and community
-- React.js ecosystem
-- Stripe API documentation
-- AWS cloud services
-
----
 
 <div align="center">
 
