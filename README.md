@@ -233,10 +233,11 @@ npm start
 ## 📸 Screenshots
 
 > Add screenshots of your application here to showcase the UI
-https://github.com/malikhub123/FoodieHub/blob/main/image%204.png
-https://github.com/malikhub123/FoodieHub/blob/main/image%203.png
-https://github.com/malikhub123/FoodieHub/blob/main/image%202.png
-https://github.com/malikhub123/FoodieHub/blob/main/image%201.png
+![image](https://github.com/malikhub123/FoodieHub/blob/main/image%204.png)
+![image](https://github.com/malikhub123/FoodieHub/blob/main/image%203.png)
+![image](https://github.com/malikhub123/FoodieHub/blob/main/image%202.png)
+![image](https://github.com/malikhub123/FoodieHub/blob/main/image%201.png)
+
 
 ---
 
