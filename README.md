@@ -233,6 +233,10 @@ npm start
 ## 📸 Screenshots
 
 > Add screenshots of your application here to showcase the UI
+https://github.com/malikhub123/FoodieHub/blob/main/image%204.png
+https://github.com/malikhub123/FoodieHub/blob/main/image%203.png
+https://github.com/malikhub123/FoodieHub/blob/main/image%202.png
+https://github.com/malikhub123/FoodieHub/blob/main/image%201.png
 
 ---
 
@@ -260,9 +264,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *B.Tech – Computer Science & Engineering*  
 *Full-Stack Developer (Spring Boot | React | AWS)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-malik-43880a222/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik2002.aditi@gmail.com)
 
 ---
 
