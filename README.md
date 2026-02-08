@@ -7,6 +7,19 @@
 
 A **modern, scalable, full-stack food ordering application** built completely from scratch using **Spring Boot** and **React**. FoodieHub simulates a real-world online food ordering platform with secure payments, order tracking, and cloud deployment.
 
+
+## 🎥 Project Demo
+
+
+https://github.com/user-attachments/assets/cccf89ce-07e4-4782-b3ae-66101a194ae9
+
+
+## 🚀 Live Project
+
+🔗 **Experience it live:** [http://foodie-hub.s3-website.ap-south-1.amazonaws.com/](http://foodie-hub.s3-website.ap-south-1.amazonaws.com/)
+
+---
+
 ---
 
 ## 🌟 Overview
@@ -19,18 +32,6 @@ FoodieHub enables users to:
 - 📊 Track order status in real-time
 
 Built with industry-grade practices focusing on **security**, **scalability**, and **maintainability**.
-
----
-
-## 🎥 Project Demo
-
-
-https://github.com/user-attachments/assets/cccf89ce-07e4-4782-b3ae-66101a194ae9
-
-
-## 🚀 Live Project
-
-🔗 **Experience it live:** [http://foodie-hub.s3-website.ap-south-1.amazonaws.com/](http://foodie-hub.s3-website.ap-south-1.amazonaws.com/)
 
 ---
 
