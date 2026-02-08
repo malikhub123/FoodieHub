@@ -24,7 +24,11 @@ Built with industry-grade practices focusing on **security**, **scalability**, a
 
 ## 🚀 Project Video
 
-https://github.com/malikhub123/FoodieHub/assets/123456789/foodiehub-demo.mp4
+## 🚀 Project Video
+
+[![FoodieHub Demo](https://github.com/malikhub123/FoodieHub/assets/THUMBNAIL_ID/demo-thumbnail.png)]
+(https://github.com/malikhub123/FoodieHub/assets/123456789/foodiehub-demo.mp4)
+
 
 
 ## 🚀 Live Project
