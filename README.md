@@ -1,6 +1,6 @@
 # 🍽️ FoodieHub – Full-Stack Food Ordering & Order Management Application
 
-[![Live](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](http://foodie-hub.s3-website.ap-south-1.amazonaws.com/)
+[![Live](https://img.shields.io/badge/Live-success?style=for-the-badge)](http://foodie-hub.s3-website.ap-south-1.amazonaws.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
