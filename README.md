@@ -156,7 +156,7 @@ This project demonstrates expertise in:
 ## ⚙️ Environment Setup
 
 ### Prerequisites
-- ☕ Java 17+
+- ☕ Java 21+
 - 🟢 Node.js & npm
 - 🐬 MySQL
 - 📦 Maven
