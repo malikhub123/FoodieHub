@@ -28,14 +28,6 @@ Built with industry-grade practices focusing on **security**, **scalability**, a
 https://github.com/user-attachments/assets/cccf89ce-07e4-4782-b3ae-66101a194ae9
 
 
-
-
-
-
-
-
-
-
 ## 🚀 Live Project
 
 🔗 **Experience it live:** [http://foodie-hub.s3-website.ap-south-1.amazonaws.com/](http://foodie-hub.s3-website.ap-south-1.amazonaws.com/)
@@ -253,19 +245,7 @@ npm start
 ![image](https://github.com/malikhub123/FoodieHub/blob/main/image%201.png)
 
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📄 License
 
